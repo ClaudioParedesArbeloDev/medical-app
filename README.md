@@ -55,6 +55,3 @@ flutter run
 <p align="center">
   Hecho por / Built by <a href="https://github.com/ClaudioParedesArbeloDev"><b>Claudio Paredes Arbelo</b></a> · <a href="https://www.claudioparedes.site">Code & Lens Solutions</a>
 </p>
-# medical_app
-
-A new Flutter project.
